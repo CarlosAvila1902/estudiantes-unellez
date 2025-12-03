@@ -1,0 +1,69 @@
+{
+    "name": "Carlos Avila",
+    "aboutMe": "Soy Carlos, un estudiante de la Ingeniería en Informática. Actualmente me encuentro cursando 4to año en la UNELLEZ. Mi interés por la la optimizacion de trabajo y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo ERP, bases de datos, Sistemas GNU/Linux, Emulacion de juegos, Piratear Adobe.",
+    "softSkills": [
+        "Liderazgo",
+        "Responsabilidad",
+        "paciencia",
+        "disciplina"
+    ],
+    "techSkills": [
+        "Python",
+        "Javascript",
+        "HTML/CSS",
+        "postgresql",
+        "PowerBI/PowerQuery",
+        "MSExcel/LibreOffice"
+    ],
+    "experience": [
+        {
+            "organization": "Corporacion el Campesino C.A",
+            "role": "Analista de ventas",
+            "since": 2018,
+            "description": "revision y seguimiento de indicadores de ventas e incentivos, atencion al proveedor"
+        },
+        {
+            "organization": "Empresas Mas+ C.A (Distribuidora LTE C.A)",
+            "role": "Analista de compras",
+            "since": 2020,
+            "description": "gestion de compras, cotizaciones, cuentas por pagar, gastos"
+        },
+        {
+            "organization": "Agropecuaria Rancho 13. C.A",
+            "role": "Coordinador sucursal Barinas",
+            "since": 2023,
+            "description": "gestion de compras, inventario, caja, asesoria tecnica en Procesos administrativos digitales."
+        },
+        {
+            "organization": "Gaduca C.A",
+            "role": "Analista de ventas",
+            "since": 2024,
+            "description": "revision y seguimiento de indicadores de ventas e incentivos"
+        },
+        {
+            "organization": "Corporacion Electrica Nacional S.A (Corpoelec)",
+            "role": "Operador de subestacion de transmision 230Kv Barinas IV",
+            "since": 2024,
+            "description": "control y revision de equipos de potencia de la subestacion"
+        }
+    ],
+    "projects": [
+        {
+            "title": "ODOO enterprise para el negocio AVILA LA BENDICION DE DIOS, F.P.",
+            "rol": "Implementador (no partner)",
+            "description": "(en proceso), implementacion de un sistema ERP para la fruteria de mi padre"
+        },
+        {
+            "title": "APLICACIÓN MÓVIL PARA EL SEGUIMIENTO DEL CICLO DE VIDA DEL SECTOR GANADERO EN LA FINCA NAZARETH DEL MUNICIPIO PEDRAZA DEL ESTADO BARINAS",
+            "rol": "Tesista",
+            "description": "(en proceso) Desarrollar una aplicación móvil para el seguimiento del ciclo de vida del sector ganadero en la Finca Nazareth del municipio Pedraza, estado Barinas."
+        }
+    ],
+    "contact": [
+        {
+            "name": "Github",
+            "url": "https://github.com/CarlosAvila1902",
+            "icon": "mdiGithub"
+        }
+    ]
+}
