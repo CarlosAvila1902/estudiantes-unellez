@@ -11,13 +11,14 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
-    "@nuxt/content": "^2.13.4",
+    "@nuxt/content": "^3.9.0",
+    "better-sqlite3": "^12.5.0",
     "nuxt": "^3.13.2",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
-    "@nuxtjs/vuetify": "^1.12.3",
+    "@nuxtjs/vuetify": "^0.1.1",
     "vite-plugin-vuetify": "^2.0.4",
     "vuetify": "^3.7.3"
   }
